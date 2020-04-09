@@ -1,4 +1,7 @@
 # wiehack2.0
+
+- This repository currently has demos and sample codes that I have tried, modified or will be building upon.
+
 ## Community Interaction Application
 
 Communities are a very important part of who we become in both personal and professional space. The people we interact with, the way we interact and how comfortable we are in a community determines how much we make out of it, and it also determines how effective community’s activities are.
