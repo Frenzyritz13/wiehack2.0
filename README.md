@@ -32,4 +32,4 @@ integrated with.
 
 - The Bingo grid
 
-- 
+![](images/DEMO.png)
